@@ -18,3 +18,8 @@ print(num1 < num2)
 
 print(num1 != num2)
 
+list = [100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
+
+#I dentifying if a particular number belongs to the list or not
+print(55 in list)
+
